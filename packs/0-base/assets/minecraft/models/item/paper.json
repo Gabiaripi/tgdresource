@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides": [
+	{ "predicate": { "custom_model_data": 1},  "model": "custom/iron_permit", "comment": "Hermit Permit" },
+	{ "predicate": { "custom_model_data": 2},  "model": "custom/gold_permit", "comment": "Hermit Permit" },
+	{ "predicate": { "custom_model_data": 3},  "model": "custom/diamond_permit", "comment": "Hermit Permit" },
+  { "predicate": { "custom_model_data": 4},  "model": "custom/netherite_permit", "comment": "Hermit Permit" }
+  ]
+}

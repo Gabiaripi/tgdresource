@@ -1,0 +1,23 @@
+{
+    "commandblocklong": {
+        "category": "master",
+        "sounds": [
+            "commandblocklong"
+        ],
+        "subtitle": "subtitles.commandblocklong"
+    },
+    "commandblockshort": {
+        "category": "master",
+        "sounds": [
+            "commandblockshort"
+        ],
+        "subtitle": "subtitles.commandblockshort"
+    },
+    "commandblockkeep": {
+        "category": "master",
+        "sounds": [
+            "commandblockkeep"
+        ],
+        "subtitle": "subtitles.commandblockkeep"
+    }
+}

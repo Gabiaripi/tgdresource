@@ -1,0 +1,20 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "item/netherite_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 404
+      },
+      "model": "item/monsterspawner_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 405
+      },
+      "model": "item/monsterspawner_crack_staff_soul"
+    }
+  ]
+}

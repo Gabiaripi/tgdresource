@@ -1,0 +1,308 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "item/stick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/iron_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/gold_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/diamond_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/netherite_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/redstone_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/lapis_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "item/emerald_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "item/command_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "item/furnace_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "item/chest_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "item/crafting_table_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "item/enchant_table_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "item/anvil_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "item/grindstone_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "item/cobblestone_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "item/oak_planks_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "item/mossy_cobblestone_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 18
+      },
+      "model": "item/spruce_planks_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 19
+      },
+      "model": "item/wheat_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 20
+      },
+      "model": "item/enderchest_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 21
+      },
+      "model": "item/enderportal_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 22
+      },
+      "model": "item/chorus_flower_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 23
+      },
+      "model": "item/obsidian_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 24
+      },
+      "model": "item/birch_planks_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 25
+      },
+      "model": "item/stone_bricks_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 26
+      },
+      "model": "item/redstone_lamp_on_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 27
+      },
+      "model": "item/bamboo_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 28
+      },
+      "model": "item/dragon_head_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 29
+      },
+      "model": "item/cake_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 30
+      },
+      "model": "item/cherry_planks_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 31
+      },
+      "model": "item/pink_wool_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 32
+      },
+      "model": "item/conduit_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 33
+      },
+      "model": "item/sponge_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 34
+      },
+      "model": "item/monsterspawner_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 35
+      },
+      "model": "item/creeper_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 36
+      },
+      "model": "item/piglin_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 37
+      },
+      "model": "item/skeleton_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 38
+      },
+      "model": "item/whiter_skeleton_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 39
+      },
+      "model": "item/zombie_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 40
+      },
+      "model": "item/lucky_block"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 44
+      },
+      "model": "item/beacon_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 45
+      },
+      "model": "item/brewing_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 88
+      },
+      "model": "item/commandrepeat_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 211
+      },
+      "model": "item/enderportaleye_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 266
+      },
+      "model": "item/redstone_lamp_off_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 322
+      },
+      "model": "item/conduit_staff_active"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 777
+      },
+      "model": "item/minecraft_staff_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 888
+      },
+      "model": "item/commandchain_staff"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 999
+      },
+      "model": "item/minecraft_staff_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1000
+      },
+      "model": "item/air_staff"
+    }
+  ]
+}
