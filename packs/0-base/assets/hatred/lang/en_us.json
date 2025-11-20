@@ -1,0 +1,8 @@
+{
+    "death.attack.smitedbyprayer": "The world prayed and %1$s got BANISHED!!!",
+    "death.attack.smitedbyprayer.player": "%2$s prayed and %1$s got BANISHED!!!",
+    "death.attack.hateful.player": "%1$s became too hateful from %2$s's presence",
+    "death.attack.hateful": "%1$s became too hateful",
+    "death.attack.sheerpowerofhatredsattack.player": "%1$s took mortal damage from the sheer power of %2$s's attack",
+     "death.attack.sheerpowerofhatredsattack": "%1$s took mortal damage from the sheer power of an inexplicable source's attack"
+}
